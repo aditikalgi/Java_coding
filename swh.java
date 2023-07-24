@@ -10,6 +10,8 @@ public class swh {
             break;
             case 3:System.out.println("y");
             break;
+            case 4:System.out.println("hi");
+            break;
             default:System.out.println("jfbhoirjg");
         }
     }
